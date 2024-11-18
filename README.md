@@ -51,8 +51,8 @@ Welcome to my GitHub profile! I’m a tech enthusiast with a passion for coding,
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechTeam1&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTeam1&layout=compact&theme=radical" alt="Top Languages" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulsara30&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara30&layout=compact&theme=radical" alt="Top Languages" width="400">
 </p>
 
 ---
