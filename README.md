@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I’m a tech enthusiast with a passion for coding,
 ---
 
 ## 👨‍💻 About Me
-- 🌟 **Tech enthusiast** passionate about **development**, **machine learning**, and **open-source projects**.  
+- 🌟 **Tech enthusiast** passionate about **web development**, **machine learning**, and **open-source projects**.  
 - 🔍 Eager to collaborate on **real-world problem-solving projects**.  
-- 💻 Skilled in **Java**, **C++**, **C**, **HTML**, **CSS**, **JavaScript**, and **MySQL**, and currently learning **Python**.  
+- 💻 Skilled in **Java**, **C++**, **C**, **HTML**, **CSS**, **JavaScript**, **MySQL**, and currently learning **Python** and **MERN Stack**.  
 - 🎯 Focused on blending creativity and technology to craft impactful solutions.  
 - 🏷️ Pronouns: **he/him**.  
 
@@ -27,19 +27,23 @@ Welcome to my GitHub profile! I’m a tech enthusiast with a passion for coding,
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
 ---
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/dulsara-manakal-a4784a25b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1hWKEDHBS6m%2Blh%2F0Sy2UDw%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/dulsara-manakal-a4784a25b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/dulsaramanakal_/?__pwa=1#" target="_blank">
+  <a href="https://www.instagram.com/dulsaramanakal_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100087522041562&ref=xav_ig_profile_web" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100087522041562" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="mailto:dulsaramanakal@gmail.com?subject=Hello%20Dulsara&body=I%20wanted%20to%20reach%20out%20regarding...">
@@ -58,4 +62,6 @@ Welcome to my GitHub profile! I’m a tech enthusiast with a passion for coding,
 ---
 
 ## 🤝 Open to Collaborate
-I’m always excited to collaborate on innovative and impactful projects. Let’s build something great together! 🚀
+I’m always excited to collaborate on innovative and impactful projects, especially in **MERN stack development** and **machine learning**. Let’s build something great together! 🚀
+
+---
