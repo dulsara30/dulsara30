@@ -1,61 +1,74 @@
-<!-- Header with GIF -->
+# Dulsara Manakal
+
+**Software Engineering Student @ SLIIT** | Building full-stack applications and exploring AI integrations
+
+Third-year student who builds things, breaks them, learns from it, and builds better. Currently focused on creating web applications that solve real problems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL, PostgreSQL, Supabase, Firebase  
+**Languages:** JavaScript, TypeScript, Java, Python  
+**Tools & Others:** Git, Postman, JWT, REST APIs, Cloudinary, Vercel
+
+---
+
+## 💻 Projects
+
+### [GrocerEase Lanka](https://github.com/dulsara30/logistics-management-system)
+Logistics management system with role-based access control for warehouses, inventory, deliveries, and staff management.  
+`MERN Stack` `TypeScript` `JWT Authentication` `Cloudinary`
+
+### [HirelyAI](https://github.com/dulsara30/HirelyAI---AI-Driven-Job-Application-System)
+AI-powered recruitment platform with automated candidate scoring and multi-role system.  
+`React` `Node.js` `OpenAI API` `Clerk Authentication`
+
+### [RootCode Business Registration System](https://github.com/dulsara30/Gryffindor-business_registration_management)
+Multi-level dynamic form wizard for business registrations built for Tech Triathlon competition.  
+`Next.js` `Express.js` `PostgreSQL` `Supabase`
+
+### [UDA Participant Dashboard](https://uda-dashboard.vercel.app) · [GitHub](https://github.com/dulsara30/uda-dashboard)
+Real-time government dashboard for participant data at awareness events.  
+`React (Vite)` `Tailwind CSS` `Google Sheets API` `Vercel`
+
+### [ResuMind AI](https://github.com/dulsara30/ResuMind) · *In Progress*
+AI-powered resume analyzer generating strengths, weaknesses, and tailored suggestions.  
+`MERN Stack` `Multer` `Cloudinary` `OpenAI API`
+
+### [Online Hotel Reservation System](https://github.com/dulsara30/Online-Hotel-Reservation-System)
+Hotel booking platform with user management and hotel manager dashboard.  
+`Java` `JSP` `MySQL` `Apache Tomcat` `MVC Architecture`
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React patterns and state management
+- AI/ML integrations with OpenAI and Gemini
+- System design fundamentals
+- Backend optimization and security best practices
+
+---
+
+## 📫 Get in Touch
+
+**Email:** dulsaramanakal@gmail.com  
+**LinkedIn:** [linkedin.com/in/dulsara-manakal](https://www.linkedin.com/in/dulsara-manakal)  
+**Location:** Malabe, Sri Lanka
+
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulsara30&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats"/>
 </p>
 
-# Hi, I’m Dulsara Manakal! 👋  
-Welcome to my GitHub profile! I’m a tech enthusiast with a passion for coding, problem-solving, and building innovative solutions. 🚀  
-
----
-
-## 👨‍💻 About Me
-- 🌟 **Tech enthusiast** passionate about **web development**, **machine learning**, and **open-source projects**.  
-- 🔍 Eager to collaborate on **real-world problem-solving projects**.  
-- 💻 Skilled in **Java**, **C++**, **C**, **HTML**, **CSS**, **JavaScript**, **MySQL**, and currently learning **Python** and **MERN Stack**.  
-- 🎯 Focused on blending creativity and technology to craft impactful solutions.  
-- 🏷️ Pronouns: **he/him**.  
-
----
-
-## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara30&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/dulsara-manakal-a4784a25b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:dulsaramanakal@gmail.com?subject=Hello%20Dulsara&body=I%20wanted%20to%20reach%20out%20regarding...">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulsara30&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara30&layout=compact&theme=radical" alt="Top Languages" width="400">
-</p>
-
----
-
-## 🤝 Open to Collaborate
-I’m always excited to collaborate on innovative and impactful projects, especially in **MERN stack development** and **machine learning**. Let’s build something great together! 🚀
-
----
+> *"The real skill isn't knowing everything—it's knowing how to learn, adapt, and keep pushing forward."*
