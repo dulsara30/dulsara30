@@ -9,7 +9,7 @@ Third-year student who builds things, breaks them, learns from it, and builds be
 ## 🛠️ Tech Stack
 
 **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS  
-**Backend:** Node.js, Express.js  
+**Backend:** Node.js, Express.js, Spring Boot  
 **Databases:** MongoDB, MySQL, PostgreSQL, Supabase, Firebase  
 **Languages:** JavaScript, TypeScript, Java, Python  
 **Tools & Others:** Git, Postman, JWT, REST APIs, Cloudinary, Vercel
